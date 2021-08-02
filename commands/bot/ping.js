@@ -4,6 +4,6 @@ module.exports = {
 	// Sub-nomes do comando.
 	aliases: ['pong'],
 	execute(message) {
-		message.channel.send('Pong..');
+		message.channel.send('Pong...');
 	},
 };
